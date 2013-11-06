@@ -1,0 +1,11 @@
+Lesson 2
+--------
+
+Using only a text editor and the command line create a HelloWorld java program and a Person class which has a hardcoded name value of 'Sylvester' and using that class in the HelloWorld program display a welcome message to that person, compile and execute the program
+
+Result
+------
+2 classes one which is java program that when execute displays 'Hello Sylvester' on standard out, compiled and ran from the command line
+
+
+
