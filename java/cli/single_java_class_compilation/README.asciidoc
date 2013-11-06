@@ -1,0 +1,9 @@
+Lesson
+------
+
+Using nothing but the a text editor and the command line, create a HelloWorld java program, compile and execute on the command line
+
+Result
+------
+A java program that outputs 'Hello World' to standard out when run from the command line
+
